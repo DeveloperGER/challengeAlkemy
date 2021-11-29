@@ -1,5 +1,6 @@
-# ChallengeAlkemy
-App presupuesto
+# App Presupuesto
+Esta Aplicacion realiza los registros de ingreso y egreso de operaciones cotidianas. Generando en el Home principal el saldo total disponible
+
 # Las Herramientas utilizadas 
 Frontend : ReactJS, Redux, Bootstrap
 
